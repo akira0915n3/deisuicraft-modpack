@@ -1,6 +1,4 @@
-# deisuicraft-modpack
-deisuicraft-modpack
-泥酔クラフト - TheTwilightForest - Mod導入手順書 
+# 泥酔クラフト - TheTwilightForest - Mod導入手順書 
 
 
 **必要なもの**
