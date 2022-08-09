@@ -2,8 +2,8 @@
 
 
 **必要なもの**
-minecraft(Java) relese 1.18.2 
-本modpack
+minecraft(Java) relese 1.18.2 <br>
+modpack<br>
 
 **インストール方法**
 
