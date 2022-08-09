@@ -2,15 +2,12 @@
 
 
 **必要なもの**
-Java JDK 17
 minecraft(Java) relese 1.18.2 
+本modpack
 
 **インストール方法**
-Java JDK 17 がインストールされていない場合、まず初めに JDK17 をインストールしてください。
-インストール方法は https://eng-entrance.com/java-install-jdk-windows を参照してください。
 
-
-TheTwilightForest[1.18.2] の中に "Fabric-installer-0.11.0.exe" がありますので起動し、
+modpack の中に "Fabric-installer-0.11.0.exe" がありますので起動し、
 
 minecraftバージョンは "1.18.2 "、ローダーバージョンは "0.14.8" でインストールしてください。(画像1)
 
